@@ -1,38 +1,18 @@
 @font-face {
-    font-family: 'Roboto';
-    src: url('/newproj/src/fonts/');
-    src: url('/newproj/src/fonts/?#iefix') format('embedded-opentype'),
-    url('/newproj/src/fonts/Roboto-Light.woff') format('woff'),
-    url('/newproj/src/fonts/Roboto-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-    }
-@font-face {
-    font-family: 'Roboto';
-    src: url('/newproj/src/fonts/Roboto-Regular.eot');
-    src: url('/newproj/src/fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
-    url('/newproj/src/fonts/Roboto-Regular.woff') format('woff'),
-    url('/newproj/src/fonts/Roboto-Regular.ttf') format('truetype');
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.eot');
+    src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat-Regular.woff') format('woff'),
+    url('../fonts/Montserrat-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
-    } 
-
+}
 @font-face {
-    font-family: 'Roboto';
-    src: url('/newproj/src/fonts/Roboto-Bold.eot');
-    src: url('/newproj/src/fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
-    url('/newproj/src/fonts/Roboto-Bold.woff') format('woff'),
-    url('/newproj/src/fonts/Roboto-Bold.ttf') format('truetype');
-    font-weight: 800;
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-ExtraBold.eot');
+    src: url('../fonts/Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat-ExtraBold.woff') format('woff'),
+    url('../fonts/Montserrat-ExtraBold.ttf') format('truetype');
+    font-weight: 700;
     font-style: normal;
-    }
-
-@font-face {
-    font-family: 'Roboto';
-    src: url('/newproj/src/fonts/Roboto-Black.eot');
-    src: url('/newproj/src/fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'),
-    url('/newproj/src/fonts/Roboto-Black.woff') format('woff'),
-    url('/newproj/src/fonts/Roboto-Black.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
-    }
+}
